@@ -49,7 +49,7 @@ Refer to the repo for licenses.
 
 
 ## screenshots of the webpage
-![Screenshot 1](</assets/Screenshot1.png)
+![Screenshot 1](</assets/Screenshot1.png>)
 ![Screenshot 2](</assets/Screenshot2.png>)
 
 ## Webpage link 

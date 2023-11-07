@@ -54,4 +54,9 @@ Refer to the repo for licenses.
 
 ## Webpage link 
 
-https://dannysaravia001.github.io/Module-5-challenge/
+Link to repo of old project:
+https://github.com/Dannysaravia001/Workday-challenge
+link to new repo and webpage:
+https://github.com/Dannysaravia001/Schedule-challenge
+link to new webpage:
+https://dannysaravia001.github.io/Schedule-challenge/
